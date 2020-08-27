@@ -1,2 +1,2 @@
 # nlp
-topic modelling, text generation and sentiment analysis
+topic modelling, sentiment analysis, presidential speech generation
